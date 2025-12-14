@@ -1,0 +1,8 @@
+langchain_community
+langchain_ollama
+langchain
+tiktoken
+faiss-cpu
+langgraph
+langchain_core
+ddgs
